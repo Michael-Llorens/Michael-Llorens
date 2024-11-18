@@ -53,9 +53,9 @@
 <td width="50%">
 <h3 align="center">Juego de las bolas en QT</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/wz567D5.jpeg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank"><img src="https://i.imgur.com/wz567D5.jpeg" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
