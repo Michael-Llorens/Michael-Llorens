@@ -67,9 +67,9 @@
 <td width="50%">
 <h3 align="center">Juego de Robots en Odoo</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/FNDQpwY.jpeg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank"><img src="https://i.imgur.com/FNDQpwY.jpeg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
