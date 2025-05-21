@@ -72,14 +72,13 @@
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/API-Open_Food_Facts-ff7043?style=for-the-badge&logo=cloudflare&logoColor=white"/>
     </p>
   </div>
 </td>
 
 
 <td width="50%">
-<h3 align="center">🎟️ Cinema Ticket System</h3>
+<h3 align="center">🎟️ Cinema Ticket System (JAVA)</h3>
 <div align="center">                                       
 <a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank"><img src="./img/kinepolis.jpg" width="350" alt="Cinema Ticket System"></a>
 <p>
