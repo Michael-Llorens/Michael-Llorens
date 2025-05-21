@@ -128,7 +128,9 @@ The entire game is built on the Odoo ERP platform, using Python models, custom c
 <img src="https://img.shields.io/badge/SOURCE CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Turn-based strategy game developed in Odoo using Python models. Players manage robots, equip them with weapons, and engage in battles. Built within the ERP framework.</p>
+<p>Turn-based strategy game developed as a custom module in Odoo.
+Players manage robots, equip them with weapons, and compete in turn-based combat.
+The entire game is built on the Odoo ERP platform.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
