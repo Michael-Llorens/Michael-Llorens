@@ -8,7 +8,7 @@
 
 - 📲 Mobile App Developer  
 - 💻 Web Developer  
-- 🧠 Skilled in Java, JavaScript, Python, Kotlin, PHP, and C++  
+- 🧠 Skilled in Java, JavaScript, Python, Kotlin, PHP, C++, HTML, CSS y SQL.
 - 🎓 Recently graduated from the Advanced Vocational Training in Multiplatform Application Development  
 - 🚀 Passionate about creating solutions and solving problems through code  
 - 🌱 Constantly learning new technologies and work methodologies  
