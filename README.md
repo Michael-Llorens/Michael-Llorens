@@ -34,7 +34,7 @@
 <br>
 <h3 align="center">Box office of a cinema</h3>
 <div align="center">                                       
-<a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank"><img src="./img/kinepolis.png" width="350" alt="Curso básico android"></a>
+<a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank"><img src="./img/kinepolis.jpg" width="350" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank">
 </a>
@@ -67,7 +67,7 @@
 <td width="50%">
 <h3 align="center">Juego de Robots en Odoo</h3>
 <div align="center">
-<a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank"><img src="./img/odoo.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank"><img src="./img/Odoo-ERP.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
