@@ -6,12 +6,12 @@
 
 ## 👨‍💻 About Me
 
-- 📲 Mobile App Developer
-- 💻 Web Developer
-- 🧠 Skilled in Java, JavaScript, Python, Kotlin, PHP, and C++
-- 🎓 Recently graduated from the Advanced Vocational Training in Multiplatform Application Development
-- 🚀 Passionate about creating solutions and solving problems through code
-- 🌱 Constantly learning new technologies and work methodologies
+- 📲 Mobile App Developer  
+- 💻 Web Developer  
+- 🧠 Skilled in Java, JavaScript, Python, Kotlin, PHP, and C++  
+- 🎓 Recently graduated from the Advanced Vocational Training in Multiplatform Application Development  
+- 🚀 Passionate about creating solutions and solving problems through code  
+- 🌱 Constantly learning new technologies and work methodologies  
 
 ---
 
@@ -29,6 +29,11 @@
 </a>
 </p>
 <p>An Android app developed in Java that simulates a banking branch. It includes Firebase login, integration with local and external databases, and basic banking operations.</p>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
 </div>                                                                                  
 </td>
 
@@ -42,6 +47,11 @@
 </a>
 </p>
 <p>A cinema ticket booking simulation using Java Servlets. It includes a GUI for users and thread-based clients to simulate concurrent purchases.</p>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swing GUI-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 </div>                                                       
 </tr>
 </table>                                                                                 
@@ -60,6 +70,10 @@
 </a>
 </p>
 <p>Arcade-style game where the player must dodge incoming balls. Developed using C++ and Qt, with a custom-designed UI using Qt Designer.</p>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+</p>
 </div>
                                                                                       
 </td>       
@@ -74,6 +88,10 @@
 </a>
 </p>
 <p>Turn-based strategy game developed in Odoo using Python models. Players manage robots, equip them with weapons, and engage in battles. Built within the ERP framework.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+</p>
 </div>                                                                                     
 </td>  
 </tr>
