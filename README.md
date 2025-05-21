@@ -108,8 +108,8 @@
 <img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Ball collision Game developed with Qt and C++.
-This project simulates a 2D environment where multiple balls bounce and collide using basic physics. It features smooth animations, collision detection, and dynamic object management. It was built to enhance skills in C++ and Qt for graphical user interface development.</p>
+<p>Dodgeball game developed with Qt and C++.
+A simple yet challenging game where the player must dodge moving balls for as long as possible. Screens were built using Qt Designer, and the game features collision logic, smooth motion, and survival time tracking.</p>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
