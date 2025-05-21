@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/">Michael Llorens</a> 👋</h1>
 </div>
 
-<img src="./img/header.jpeg">
+<img src="./img/header.png">
 
 ## 👨‍💻 About Me
 
