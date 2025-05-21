@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/">Michael Llorens</a> 👋</h1>
 </div>
-<img src="./img/header.png">
+<img src="./img/header.jpeg">
 
 ## About me
 
@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">App Andoid JAVA</h3>
 <div align="center">
-<a href="https://github.com/Michael-Llorens/App-Android-Java" target="_blank"><img src="./img/header.png" width="350" alt="Curso básico android"></a>
+<a href="https://github.com/Michael-Llorens/App-Android-Java" target="_blank"><img src="./img/YouFitness.png" width="350" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Michael-Llorens/App-Android-Java" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
