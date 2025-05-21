@@ -108,8 +108,7 @@
 <img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Dodgeball game developed with Qt and C++.
-A simple yet challenging game where the player must dodge moving balls for as long as possible. Screens were built using Qt Designer, and the game features collision logic, smooth motion, and survival time tracking.</p>
+<p>A simple and engaging ball-dodging game developed using QT framework. The player must avoid getting hit by moving balls while the game keeps track of the score and progress.</p>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
