@@ -65,7 +65,7 @@
 </p>
 <p>An Android app developed in Java that simulates a banking branch. It includes Firebase login, integration with local and external databases, and basic banking operations.</p>
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
@@ -83,9 +83,8 @@
 </p>
 <p>A cinema ticket booking simulation using Java Servlets. It includes a GUI for users and thread-based clients to simulate concurrent purchases.</p>
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swing GUI-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 </div>                                                       
 </tr>
