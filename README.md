@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/SOURCE CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>A cinema ticket booking simulation using Java Servlets. It includes a GUI for users and thread-based clients to simulate concurrent purchases.</p>
+<p>Simulation of a cinema ticket booking system developed with Java Servlets. Features a graphical user interface and multithreaded clients to simulate concurrent ticket purchases.</p>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
