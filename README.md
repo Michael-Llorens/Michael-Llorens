@@ -108,7 +108,9 @@
 <img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Arcade-style game where the player must dodge incoming balls. Developed using C++ and Qt, with a custom-designed UI using Qt Designer.</p>
+<p>Turn-based strategy game developed as a custom module in Odoo.
+Players manage robots, equip them with weapons, and compete in turn-based battles.
+The entire game is built on the Odoo ERP platform, using Python models, custom control logic, and QWeb views to visually and interactively represent the game state..</p>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
