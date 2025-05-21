@@ -108,9 +108,9 @@
 <img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Turn-based strategy game developed as a custom module in Odoo.
-Players manage robots, equip them with weapons, and compete in turn-based battles.
-The entire game is built on the Odoo ERP platform, using Python models, custom control logic, and QWeb views to visually and interactively represent the game state..</p>
+<p>Interactive ball collision game developed with Qt (C++).
+This project simulates a physical environment where multiple balls bounce, collide with each other, and collide with the edges of the stage. It includes fluid animations, collision detection, and realistic movement using timers and basic physics.
+It was designed as a practice to improve C++ skills and develop graphical interfaces with Qt.</p>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
