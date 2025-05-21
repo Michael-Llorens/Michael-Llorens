@@ -55,22 +55,28 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">💳 Android Banking App (Java)</h3>
-<div align="center">
-<a href="https://github.com/Michael-Llorens/App-Android-Java" target="_blank"><img src="./img/YouFitness.png" width="350" alt="Android Java App"></a>
-<p>
-<a href="https://github.com/Michael-Llorens/App-Android-Java" target="_blank">
-<img src="https://img.shields.io/badge/SOURCE CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>An Android app developed in Java that simulates a banking branch. It includes Firebase login, integration with local and external databases, and basic banking operations.</p>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-</div>                                                                                  
+  <h3 align="center">🍲 GoodFood App (Kotlin)</h3>
+  <div align="center">
+    <a href="https://github.com/Michael-Llorens/GoodFood" target="_blank">
+      <img src="./img/goodfood-preview.png" width="350" alt="GoodFood Android App">
+    </a>
+    <p>
+      <a href="https://github.com/Michael-Llorens/GoodFood" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>
+      Android app developed in Kotlin that allows users to discover and share recipes. It uses Firebase for authentication and data storage, and integrates the Open Food Facts API to display nutritional information.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/API-Open_Food_Facts-ff7043?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+    </p>
+  </div>
 </td>
+
 
 <td width="50%">
 <h3 align="center">🎟️ Cinema Ticket System</h3>
