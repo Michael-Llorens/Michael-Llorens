@@ -108,7 +108,7 @@
 <img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Ball collision simulator developed with Qt and C++.
+<p>Ball collision Game developed with Qt and C++.
 This project simulates a 2D environment where multiple balls bounce and collide using basic physics. It features smooth animations, collision detection, and dynamic object management. It was built to enhance skills in C++ and Qt for graphical user interface development.</p>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
