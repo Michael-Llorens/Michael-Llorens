@@ -58,7 +58,7 @@
   <h3 align="center">🍲 GoodFood App (Kotlin)</h3>
   <div align="center">
     <a href="https://github.com/Michael-Llorens/GoodFood" target="_blank">
-      <img src="./img/goodfood-preview.png" width="350" alt="GoodFood Android App">
+      <img src="./img/goodfood.png" width="350" alt="GoodFood Android App">
     </a>
     <p>
       <a href="https://github.com/Michael-Llorens/GoodFood" target="_blank">
