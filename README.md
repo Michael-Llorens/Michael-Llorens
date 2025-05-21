@@ -1,49 +1,49 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/">Michael Llorens</a> 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/">Michael Llorens</a> 👋</h1>
 </div>
+
 <img src="./img/header.jpeg">
 
-## About me
+## 👨‍💻 About Me
 
-- 📲 Mobile developer
-- 💻 Web developer
-- ✏️ The programming languages ​​I master are:  Java, JavaScript, Python, Kotlin, PHP and C++
-- 🧑‍🎓 Recently graduated from the advanced course of Multiplatform Application Developer
-- 🤩 My passion is creating and solving problems through code. I also like to learn about technology and new work methodologies.
-<br>
+- 📲 Mobile App Developer
+- 💻 Web Developer
+- 🧠 Skilled in Java, JavaScript, Python, Kotlin, PHP, and C++
+- 🎓 Recently graduated from the Advanced Vocational Training in Multiplatform Application Development
+- 🚀 Passionate about creating solutions and solving problems through code
+- 🌱 Constantly learning new technologies and work methodologies
 
+---
 
-## My projects
+## 🚀 My Projects
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">App Andoid JAVA</h3>
+<h3 align="center">💳 Android Banking App (Java)</h3>
 <div align="center">
-<a href="https://github.com/Michael-Llorens/App-Android-Java" target="_blank"><img src="./img/YouFitness.png" width="350" alt="Curso básico android"></a>
+<a href="https://github.com/Michael-Llorens/App-Android-Java" target="_blank"><img src="./img/YouFitness.png" width="350" alt="Android Java App"></a>
 <p>
 <a href="https://github.com/Michael-Llorens/App-Android-Java" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
+<img src="https://img.shields.io/badge/SOURCE CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>An Android application made in Java language that simulates a bank branch, using Firebase as login, local and external databases</p>
+<p>An Android app developed in Java that simulates a banking branch. It includes Firebase login, integration with local and external databases, and basic banking operations.</p>
 </div>                                                                                  
 </td>
 
 <td width="50%">
-<br>
-<h3 align="center">Box office of a cinema</h3>
+<h3 align="center">🎟️ Cinema Ticket System</h3>
 <div align="center">                                       
-<a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank"><img src="./img/kinepolis.jpg" width="350" alt="Curso básico android"></a>
+<a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank"><img src="./img/kinepolis.jpg" width="350" alt="Cinema Ticket System"></a>
 <p>
 <a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank">
-</a>
-<a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SOURCE CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Using Java Servlet I have created a simulation of a process for the purchase of cinema tickets using the Java language. The client part will be executed by processes using threads and will work through a graphical interface.</p>
+<p>A cinema ticket booking simulation using Java Servlets. It includes a GUI for users and thread-based clients to simulate concurrent purchases.</p>
 </div>                                                       
+</tr>
 </table>                                                                                 
 </div>
 <br>
@@ -51,32 +51,31 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Juego de las bolas en QT</h3>
+<h3 align="center">🎮 Ball Dodging Game (Qt/C++)</h3>
 <div align="center">
-<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank"><img src="./img/juego-bolas.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank"><img src="./img/juego-bolas.png" width="400" alt="Ball Game QT"></a>
 <p>
 <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>A game about dodging balls and not getting hit by them. This game is created for a final project developed in QT using the .cpp and .h programming languages, also using the designer to create the dialogs.</p>
+<p>Arcade-style game where the player must dodge incoming balls. Developed using C++ and Qt, with a custom-designed UI using Qt Designer.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Juego de Robots en Odoo</h3>
+<h3 align="center">🤖 Robot Battle Game (Odoo)</h3>
 <div align="center">
-<a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank"><img src="./img/Odoo-ERP.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank"><img src="./img/Odoo-ERP.png" width="400" alt="Robot Game Odoo"></a>
 <p>
 <a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SOURCE CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>This game was developed in Odoo using the Python programming language and using models. The game consists of players, each player can have robots, you can add weapons to the robots so they can fight against others.</p>
-</div>
-                                                                                      
+<p>Turn-based strategy game developed in Odoo using Python models. Players manage robots, equip them with weapons, and engage in battles. Built within the ERP framework.</p>
+</div>                                                                                     
 </td>  
-</table>                                                                                 
-</div>
+</tr>
+</table>
 <br>
