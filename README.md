@@ -143,7 +143,7 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
   <h3 align="center">🎮 Ball Dodging Game (Qt/C++)</h3>
   <div align="center">
     <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
-      <img src="./img/juego-bolass.png" width="400" alt="Ball Game QT">
+    <img src="https://raw.githubusercontent.com/Michael-Llorens/QT-balls-game/main/img/juego-bolas.png" width="350" alt="Ball Game QT">
     </a>
     <p>
       <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
@@ -164,7 +164,7 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
   <h3 align="center">🤖 Robot Battle Game (Odoo/Python)</h3>
   <div align="center">
     <a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
-      <img src="./img/odoo.png" width="400" alt="Robot Game Odoo">
+      <img src="./img/Odoo-ERP.png" width="400" alt="Robot Game Odoo"></a>
     </a>
     <p>
       <a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
