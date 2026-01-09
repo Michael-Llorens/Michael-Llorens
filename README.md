@@ -158,7 +158,7 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
       <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
     </p>
   </div>
-</td>       
+</td>        
 
 <td width="50%">
   <h3 align="center">🤖 Robot Battle Game (Odoo/Python)</h3>
