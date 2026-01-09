@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/">Michael Llorens</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/">Michael Llorens</a> 👋</h1>
 </div>
 
 <img src="./img/header.png">
@@ -23,71 +23,91 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
 
 ### **Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ### **Frontend**
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### **Backend & Databases**
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ### **Mobile & Other**
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-
+<br>
 <table>
+<tr> <td width="100%"> <h3 align="center">🍽️ El Buey Madurado (Full Stack)</h3> <div align="center"> <a href="https://github.com/Michael-Llorens/el-buey-madurado" target="_blank"> <img src="https://raw.githubusercontent.com/Michael-Llorens/el-buey-madurado/main/public/logo-fondo-blanco.ico" width="350" alt="El Buey Madurado Restaurant System"> </a> <p> <a href="https://github.com/Michael-Llorens/el-buey-madurado" target="_blank"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00A3E0?style=for-the-badge&logo=github&logoColor=white"> </a> </p> <p> <strong>Comprehensive full-stack web application</strong> for restaurant management. Features menu management, order processing, table reservation system, customer management, and secure JWT authentication with role-based access. </p> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/> </p> </div> </td> </tr>
 <tr>
-<td width="100%">
-  <h3 align="center">🍽️ El Buey Madurado (Full Stack)</h3>
-  <div align="center">
-    <a href="https://github.com/Michael-Llorens/el-buey-madurado" target="_blank">
-      <img src="https://raw.githubusercontent.com/Michael-Llorens/el-buey-madurado/main/public/logo-fondo-blanco.ico" width="350" alt="El Buey Madurado Restaurant System">
-    </a>
-    <p>
-      <a href="https://github.com/Michael-Llorens/el-buey-madurado" target="_blank">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-00A3E0?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </p>
-    <p>
-      <strong>Comprehensive full-stack web application</strong> for restaurant management. Features menu management, order processing, table reservation system, customer management, and secure JWT authentication with role-based access.
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-    </p>
-  </div>
+<td width="50%">
+<h3 align="center">🍲 GoodFood (Kotlin/Android)</h3>
+<div align="center">
+<a href="https://github.com/Michael-Llorens/GoodFood" target="_blank">
+<img src="./img/goodfood.png" width="350" alt="GoodFood Android App">
+</a>
+<p>
+<a href="https://github.com/Michael-Llorens/GoodFood" target="_blank">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+<strong>Android app</strong> that allows users to discover, share, and manage recipes. Features Firebase authentication, real-time database, and Open Food Facts API integration for nutritional information.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+</div>
 </td>
+
+<td width="50%">
+<h3 align="center">🎟️ Cinema Ticket System (Java)</h3>
+<div align="center">
+<a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank">
+<img src="./img/kinepolis.jpg" width="350" alt="Cinema Ticket System">
+</a>
+<p>
+<a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+<strong>Java-based system</strong> simulating cinema ticket booking with client-server architecture. Demonstrates socket programming, multithreading, and concurrent user management.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sockets-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+</div>
 </tr>
 </table>
 
@@ -96,95 +116,41 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
 <table>
 <tr>
 <td width="50%">
-  <h3 align="center">🍲 GoodFood (Kotlin/Android)</h3>
-  <div align="center">
-    <a href="https://github.com/Michael-Llorens/GoodFood" target="_blank">
-      <img src="./img/goodfood.png" width="350" alt="GoodFood Android App">
-    </a>
-    <p>
-      <a href="https://github.com/Michael-Llorens/GoodFood" target="_blank">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p>
-      <strong>Android app</strong> that allows users to discover, share, and manage recipes. Features Firebase authentication, real-time database, and Open Food Facts API integration for nutritional information.
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-    </p>
-  </div>
+<h3 align="center">🎮 Ball Dodging Game (Qt/C++)</h3>
+<div align="center">
+<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank"><img src="./img/juego-bolas.png" width="400" alt="Ball Game QT"></a>
+<p>
+<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A simple and engaging ball-dodging game developed using QT framework. The player must avoid getting hit by moving balls while the game keeps track of the score and progress.</p>
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+</p>
+</div>
 </td>
 
 <td width="50%">
-  <h3 align="center">🎟️ Cinema Ticket System (Java)</h3>
-  <div align="center">                                       
-    <a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank">
-      <img src="./img/kinepolis.jpg" width="350" alt="Cinema Ticket System">
-    </a>
-    <p>
-      <a href="https://github.com/Michael-Llorens/Pryecte_Cine_Servlets" target="_blank">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p>
-      <strong>Java-based system</strong> simulating cinema ticket booking with client-server architecture. Demonstrates socket programming, multithreading, and concurrent user management.
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sockets-007396?style=for-the-badge&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </p>
-  </div>
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-  <h3 align="center">🎮 Ball Dodging Game (Qt/C++)</h3>
-  <div align="center">
-    <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
-      <img src="https://raw.githubusercontent.com/Michael-Llorens/QT-balls-game/main/img/juego-bolas.png" width="350" alt="Ball Game QT">
-    </a>
-    <p>
-      <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p>
-      <strong>Interactive game</strong> developed with Qt framework. Players dodge moving balls while the game tracks score and progression. Demonstrates game mechanics and real-time graphics.
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-    </p>
-  </div>
-</td>
-
-<td width="50%">
-  <h3 align="center">🤖 Robot Battle Game (Odoo/Python)</h3>
-  <div align="center">
-    <a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
-      <img src="https://raw.githubusercontent.com/Michael-Llorens/Robot-game-in-odoo/main/img/Odoo-ERP.png" width="350" alt="Robot Game Odoo">
-    </a>
-    <p>
-      <a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p>
-      <strong>Turn-based strategy game</strong> built as a custom Odoo module. Features robot management, weapon equipping, and turn-based combat mechanics integrated with the ERP platform.
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-    </p>
-  </div>
+<h3 align="center">🤖 Robot Battle Game (Odoo/Python)</h3>
+<div align="center">
+<a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
+<img src="./img/Odoo-ERP.png" width="400" alt="Robot Game Odoo"></a>
+</a>
+<p>
+<a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+<strong>Turn-based strategy game</strong> built as a custom Odoo module. Features robot management, weapon equipping, and turn-based combat mechanics integrated with the ERP platform.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+</p>
+</div>
 </td>
 </tr>
 </table>
@@ -225,35 +191,40 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
 ## 📞 Let's Connect!
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:michaelllorens87@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Michael-Llorens" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://michael-llorens.github.io/portafolio-michael/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-2E86AB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-  </p>
+<p>
+<a href="https://www.linkedin.com/in/michael-llorens-barbera-32b9272b3/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:michaelllorens87@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Michael-Llorens" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://michael-llorens.github.io/portafolio-michael/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-2E86AB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 </div>
 
 <div align="center">
-  <p>
-    <strong>Phone:</strong> +34 722 169 108<br>
-    <strong>Location:</strong> Valencia, Spain 🇪🇸
-  </p>
+<p>
+<strong>Phone:</strong> +34 722 169 108<br>
+<strong>Location:</strong> Valencia, Spain 🇪🇸
+</p>
 </div>
 
 ---
 
 <div align="center">
-  <p>
-    <i>Always open to new opportunities and interesting projects. Let's build something amazing together! 🚀</i>
-  </p>
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Michael-Llorens)
+<p>
+<i>Always open to new opportunities and interesting projects. Let's build something amazing together! 🚀</i>
+</p>
+
+!Visitors
 </div>
+
+
+Con este codigo quiero que el pproyecto de buey esten los textos centrados y qeu solo pongas una descripcion del proyecto y el titulo igual qeu estan los demas pero este al estar el primero y ser impar la lista ocupara el 100% y quiero que enlaces la imagen que esta aqui
+
+https://github.com/Michael-Llorens/el-buey-madurado/blob/main/public/logo-fondo-blanco.ico
