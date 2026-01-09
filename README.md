@@ -140,24 +140,20 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
 <table>
 <tr>
 <td width="50%">
-  <h3 align="center">🎮 Ball Dodging Game (Qt/C++)</h3>
-  <div align="center">
-    <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
-    <img src="https://raw.githubusercontent.com/Michael-Llorens/QT-balls-game/main/img/juego-bolas.png" width="350" alt="Ball Game QT">
-    </a>
-    <p>
-      <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p>
-      <strong>Interactive game</strong> developed with Qt framework. Players dodge moving balls while the game tracks score and progression. Demonstrates game mechanics and real-time graphics.
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-    </p>
-  </div>
+<h3 align="center">🎮 Ball Dodging Game (Qt/C++)</h3>
+<div align="center">
+<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank"><img src="./img/juego-bolas.png" width="400" alt="Ball Game QT"></a>
+<p>
+<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A simple and engaging ball-dodging game developed using QT framework. The player must avoid getting hit by moving balls while the game keeps track of the score and progress.</p>
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+</p>
+</div>
 </td>        
 
 <td width="50%">
