@@ -21,7 +21,7 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
 
 ## 💻 Technologies I Work With
 
-<h3 align="center">### **Languages**</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -31,7 +31,7 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-<h3 align="center">### **Frontend**</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -40,7 +40,7 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<h3 align="center">### **Backend & Databases**</h3>
+<h3 align="center">Backend & Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -50,7 +50,7 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-<h3 align="center">### **Mobile & Other**</h3>
+<h3 align="center">Mobile & Other</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
