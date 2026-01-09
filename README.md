@@ -63,32 +63,37 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
 
 ## 🚀 Featured Projects
 
-### 🍽️ **El Buey Madurado** (Full Stack Restaurant Management System)
-*Currently in development*
-<div align="center">
-  <p>
-    <strong>A comprehensive full-stack web application for restaurant management.</strong>
-  </p>
-  <p>
-    <strong>Features:</strong> Menu management • Order processing • Table management • Customer reservations • Secure authentication (JWT) • Role-based access • Analytics dashboard
-  </p>
-  <p>
+<table>
+<tr>
+<td width="100%">
+  <h3 align="center">🍽️ El Buey Madurado (Full Stack)</h3>
+  <div align="center">
     <a href="https://github.com/Michael-Llorens/el-buey-madurado" target="_blank">
-      <img src="https://img.shields.io/badge/VIEW_PROJECT-00A3E0?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://raw.githubusercontent.com/Michael-Llorens/el-buey-madurado/main/public/logo-fondo-blanco.ico" width="350" alt="El Buey Madurado Restaurant System">
     </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-  </p>
-</div>
+    <p>
+      <a href="https://github.com/Michael-Llorens/el-buey-madurado" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-00A3E0?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </p>
+    <p>
+      <strong>Comprehensive full-stack web application</strong> for restaurant management. Features menu management, order processing, table reservation system, customer management, and secure JWT authentication with role-based access.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+    </p>
+  </div>
+</td>
+</tr>
+</table>
 
 <br>
+
 <table>
-  <tr> <td width="100%"> <h3 align="center">🍽️ El Buey Madurado (Full Stack)</h3> <div align="center"> <a href="https://github.com/Michael-Llorens/el-buey-madurado" target="_blank"> <img src="https://raw.githubusercontent.com/Michael-Llorens/el-buey-madurado/main/public/logo-fondo-blanco.ico" width="350" alt="El Buey Madurado Restaurant System"> </a> <p> <a href="https://github.com/Michael-Llorens/el-buey-madurado" target="_blank"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00A3E0?style=for-the-badge&logo=github&logoColor=white"> </a> </p> <p> <strong>Comprehensive full-stack web application</strong> for restaurant management. Features menu management, order processing, table reservation system, customer management, and secure JWT authentication with role-based access. </p> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/> </p> </div> </td> </tr>
 <tr>
 <td width="50%">
   <h3 align="center">🍲 GoodFood (Kotlin/Android)</h3>
@@ -131,36 +136,41 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
       <img src="https://img.shields.io/badge/Sockets-007396?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
     </p>
-  </div>                                                       
+  </div>
+</td>
 </tr>
-</table>                                                                                 
+</table>
 
 <br>
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎮 Ball Dodging Game (Qt/C++)</h3>
-<div align="center">
-<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank"><img src="./img/juego-bolas.png" width="400" alt="Ball Game QT"></a>
-<p>
-<a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
-<img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>A simple and engaging ball-dodging game developed using QT framework. The player must avoid getting hit by moving balls while the game keeps track of the score and progress.</p>
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-</p>
-</div>
-</td>        
+  <h3 align="center">🎮 Ball Dodging Game (Qt/C++)</h3>
+  <div align="center">
+    <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
+      <img src="https://raw.githubusercontent.com/Michael-Llorens/QT-balls-game/main/img/juego-bolas.png" width="350" alt="Ball Game QT">
+    </a>
+    <p>
+      <a href="https://github.com/Michael-Llorens/QT-balls-game" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>
+      <strong>Interactive game</strong> developed with Qt framework. Players dodge moving balls while the game tracks score and progression. Demonstrates game mechanics and real-time graphics.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+    </p>
+  </div>
+</td>
 
 <td width="50%">
   <h3 align="center">🤖 Robot Battle Game (Odoo/Python)</h3>
   <div align="center">
     <a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
-      <img src="./img/Odoo-ERP.png" width="400" alt="Robot Game Odoo"></a>
+      <img src="https://raw.githubusercontent.com/Michael-Llorens/Robot-game-in-odoo/main/img/Odoo-ERP.png" width="350" alt="Robot Game Odoo">
     </a>
     <p>
       <a href="https://github.com/Michael-Llorens/Robot-game-in-odoo" target="_blank">
@@ -174,8 +184,8 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
     </p>
-  </div>                                                                                     
-</td>  
+  </div>
+</td>
 </tr>
 </table>
 
@@ -247,8 +257,3 @@ I'm a **Full Stack Web Developer** with solid training in Multiplatform Applicat
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Michael-Llorens)
 </div>
-
-
-Con este codigo quiero que el pproyecto de buey esten los textos centrados y qeu solo pongas una descripcion del proyecto y el titulo igual qeu estan los demas pero este al estar el primero y ser impar la lista ocupara el 100% y quiero que enlaces la imagen que esta aqui
-
-[https://github.com/Michael-Llorens/el-buey-madurado/blob/main/public/logo-fondo-blanco.ico](https://github.com/Michael-Llorens/el-buey-madurado/blob/main/public/logo-fondo-blanco.ico)
